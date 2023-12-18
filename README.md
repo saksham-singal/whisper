@@ -75,7 +75,7 @@ Whisper's performance varies widely depending on the language. The figure below 
 
 
 
-## Command-line usage
+## Command line usage
 
 The following command will transcribe speech in audio files, using the `medium` model:
 
